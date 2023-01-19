@@ -1,0 +1,23 @@
+{
+  "name": "itpu-final",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass src/styles/styles.scss src/css/styles.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Najmiddin12/itpu-final.git"
+  },
+  "keywords": [],
+  "author": "Sultanov Najmiddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Najmiddin12/itpu-final/issues"
+  },
+  "homepage": "https://gitlab.com/Najmiddin12/itpu-final#readme",
+  "dependencies": {
+    "sass": "^1.57.1"
+  }
+}
